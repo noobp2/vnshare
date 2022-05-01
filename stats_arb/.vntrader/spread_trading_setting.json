@@ -1,0 +1,142 @@
+[
+    {
+        "name": "cu34",
+        "leg_settings": [
+            {
+                "variable": "A",
+                "vt_symbol": "cu2203.SHFE",
+                "trading_direction": 1,
+                "trading_multiplier": 1
+            },
+            {
+                "variable": "B",
+                "vt_symbol": "cu2204.SHFE",
+                "trading_direction": -1,
+                "trading_multiplier": -1
+            }
+        ],
+        "price_formula": "A-B",
+        "active_symbol": "cu2204.SHFE",
+        "min_volume": 1.0
+    },
+	{
+        "name": "cu35",
+        "leg_settings": [
+            {
+                "variable": "A",
+                "vt_symbol": "cu2203.SHFE",
+                "trading_direction": 1,
+                "trading_multiplier": 1
+            },
+            {
+                "variable": "B",
+                "vt_symbol": "cu2205.SHFE",
+                "trading_direction": -1,
+                "trading_multiplier": -1
+            }
+        ],
+        "price_formula": "A-B",
+        "active_symbol": "cu2205.SHFE",
+        "min_volume": 1.0
+    },
+	{
+        "name": "cu36",
+        "leg_settings": [
+            {
+                "variable": "A",
+                "vt_symbol": "cu2203.SHFE",
+                "trading_direction": 1,
+                "trading_multiplier": 1
+            },
+            {
+                "variable": "B",
+                "vt_symbol": "cu2206.SHFE",
+                "trading_direction": -1,
+                "trading_multiplier": -1
+            }
+        ],
+        "price_formula": "A-B",
+        "active_symbol": "cu2206.SHFE",
+        "min_volume": 1.0
+    },
+	{
+        "name": "cu38",
+        "leg_settings": [
+            {
+                "variable": "A",
+                "vt_symbol": "cu2203.SHFE",
+                "trading_direction": 1,
+                "trading_multiplier": 1
+            },
+            {
+                "variable": "B",
+                "vt_symbol": "cu2208.SHFE",
+                "trading_direction": -1,
+                "trading_multiplier": -1
+            }
+        ],
+        "price_formula": "A-B",
+        "active_symbol": "cu2208.SHFE",
+        "min_volume": 1.0
+    },
+    {
+        "name": "ag34",
+        "leg_settings": [
+            {
+                "variable": "A",
+                "vt_symbol": "ag2203.SHFE",
+                "trading_direction": 1,
+                "trading_multiplier": 1
+            },
+            {
+                "variable": "B",
+                "vt_symbol": "ag2204.SHFE",
+                "trading_direction": -1,
+                "trading_multiplier": -1
+            }
+        ],
+        "price_formula": "A-B",
+        "active_symbol": "ag2204.SHFE",
+        "min_volume": 1.0
+    },
+    {
+        "name": "ag36",
+        "leg_settings": [
+            {
+                "variable": "A",
+                "vt_symbol": "ag2203.SHFE",
+                "trading_direction": 1,
+                "trading_multiplier": 1
+            },
+            {
+                "variable": "B",
+                "vt_symbol": "ag2206.SHFE",
+                "trading_direction": -1,
+                "trading_multiplier": -1
+            }
+        ],
+        "price_formula": "A-B",
+        "active_symbol": "ag2206.SHFE",
+        "min_volume": 1.0
+    },
+    {
+        "name": "ag38",
+        "leg_settings": [
+            {
+                "variable": "A",
+                "vt_symbol": "ag2203.SHFE",
+                "trading_direction": 1,
+                "trading_multiplier": 1
+            },
+            {
+                "variable": "B",
+                "vt_symbol": "ag2208.SHFE",
+                "trading_direction": -1,
+                "trading_multiplier": -1
+            }
+        ],
+        "price_formula": "A-B",
+        "active_symbol": "ag2208.SHFE",
+        "min_volume": 1.0
+    }
+]

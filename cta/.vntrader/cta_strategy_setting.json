@@ -1,0 +1,24 @@
+{
+    "rsi_ma_q_fu09": {
+        "class_name": "RsiMAScalpQuickStrategy",
+        "vt_symbol": "fu2209.SHFE",
+        "setting": {
+            "class_name": "RsiMAScalpQuickStrategy",
+            "rsi_signal": 30,
+            "rsi_fast_window": 6,
+            "rsi_slow_window": 20,
+            "dynamic_rsi": 1,
+            "trend_filter": 1,
+            "ma_window": 5,
+            "fixed_size": 1,
+            "captial_alloc": 50000,
+            "size": 10,
+            "pricetick": 1.0,
+            "risk_tol": 1.0,
+            "atr_multi": 2,
+            "atr_th": 0.1,
+            "win_ratio": 2,
+            "mngr_discretion": 0
+        }
+    }
+}
