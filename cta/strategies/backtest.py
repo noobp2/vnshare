@@ -32,7 +32,7 @@ from vnpy_ctastrategy.base import (
 )
 from vnpy_ctastrategy.template import CtaTemplate
 
-from .cutility import parse_anim,parse_shapes
+from .cutility import parse_anim,parse_shapes,parse_optm_result_df
 
 
 class BacktestingEngine:
@@ -568,6 +568,16 @@ class BacktestingEngine:
                 self.output(msg)
 
         return results
+    
+    def run_ga_optm_stats(self, optimization_setting: OptimizationSetting):
+        self.clear_data()
+        
+        result_raw = self.run_ga_optimization(optimization_setting, False)
+        result_dict = [parse_optm_result_df(r) for r in result_raw]
+        result_df = DataFrame.from_dict(result_dict)
+        result_df['target'] = optimization_setting.target_name
+        
+        return result_df
 
     def update_daily_close(self, price: float):
         """"""

@@ -448,3 +448,9 @@ def parse_anim(row):
         offset = 'c'
     txt = direct + '_' + offset
     return dict(x=t_string, y=y_pos, xref='x', yref='paper',showarrow=False, xanchor='left', text=txt)
+
+#this method parse raw optimization result to dictionary.
+def parse_optm_result_df(item):
+    dict_row = json.loads(item[0].replace("\'", "\""))
+    dict_row.update(item[2])
+    return dict_row
