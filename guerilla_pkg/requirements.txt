@@ -1,0 +1,256 @@
+aiohttp @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/aiohttp-3.8.3-cp310-cp310-win_amd64.whl
+aiosignal @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/aiosignal-1.3.1-py3-none-any.whl
+akracer==0.0.11
+akshare==1.11.49
+alphalens==0.4.0
+anyio @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/anyio-3.6.2-py3-none-any.whl
+appdirs==1.4.4
+argon2-cffi @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/argon2_cffi-21.3.0-py3-none-any.whl
+argon2-cffi-bindings @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/argon2_cffi_bindings-21.2.0-cp36-abi3-win_amd64.whl
+arrow @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/arrow-1.2.3-py3-none-any.whl
+asgiref @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/51EF6248858D3D09A63067BA632F787998F8F500/asgiref-3.5.0-py3-none-any.whl
+asttokens @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/asttokens-2.2.1-py2.py3-none-any.whl
+async-timeout @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/async_timeout-4.0.2-py3-none-any.whl
+attrs @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/attrs-22.1.0-py2.py3-none-any.whl
+Babel @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/Babel-2.11.0-py3-none-any.whl
+backcall @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/backcall-0.2.0-py2.py3-none-any.whl
+beautifulsoup4 @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/beautifulsoup4-4.11.1-py3-none-any.whl
+bleach @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/bleach-5.0.1-py3-none-any.whl
+Brotli @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/51EF6248858D3D09A63067BA632F787998F8F500/Brotli-1.0.9-cp310-cp310-win_amd64.whl
+bs4==0.0.1
+certifi @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/certifi-2022.12.7-py3-none-any.whl
+cffi @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/cffi-1.15.1-cp310-cp310-win_amd64.whl
+chardet @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/51EF6248858D3D09A63067BA632F787998F8F500/chardet-3.0.4-py2.py3-none-any.whl
+charset-normalizer @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/charset_normalizer-2.1.1-py3-none-any.whl
+click @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/click-8.1.3-py3-none-any.whl
+colorama @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/colorama-0.4.6-py2.py3-none-any.whl
+comm @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/comm-0.1.2-py3-none-any.whl
+contourpy @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/contourpy-1.0.6-cp310-cp310-win_amd64.whl
+cryptography @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/cryptography-38.0.4-cp36-abi3-win_amd64.whl
+cycler @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/cycler-0.11.0-py3-none-any.whl
+Cython @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/Cython-0.29.32-py2.py3-none-any.whl
+deap @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/deap-1.3.3-cp310-cp310-win_amd64.whl
+debugpy @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/debugpy-1.6.4-cp310-cp310-win_amd64.whl
+decorator @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/decorator-5.1.1-py3-none-any.whl
+defusedxml @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/defusedxml-0.7.1-py2.py3-none-any.whl
+dnspython @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/dnspython-2.2.1-py3-none-any.whl
+ecdsa @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/ecdsa-0.18.0-py2.py3-none-any.whl
+empyrical==0.5.5
+entrypoints @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/entrypoints-0.4-py3-none-any.whl
+et-xmlfile==1.1.0
+exchange-calendars @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/exchange_calendars-4.2.4-py3-none-any.whl
+executing @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/executing-1.2.0-py2.py3-none-any.whl
+fastapi @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/fastapi-0.88.0-py3-none-any.whl
+fastjsonschema @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/fastjsonschema-2.16.2-py3-none-any.whl
+filelock @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/filelock-3.8.2-py3-none-any.whl
+fonttools @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/fonttools-4.38.0-py3-none-any.whl
+fqdn @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/fqdn-1.5.1-py3-none-any.whl
+frozendict==2.3.8
+frozenlist @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/frozenlist-1.3.3-cp310-cp310-win_amd64.whl
+gmtrade @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/gmtrade-3.0.4-cp310-cp310-win_amd64.whl
+graphql-core @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/graphql_core-3.2.3-py3-none-any.whl
+grpcio @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/grpcio-1.51.1-cp310-cp310-win_amd64.whl
+guerilla==1.0.3
+h11 @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/h11-0.14.0-py3-none-any.whl
+hs-udata @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/hs_udata-0.3.8-py3-none-any.whl
+html5lib==1.1
+ibapi==9.81.1.post1
+idna @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/idna-3.4-py3-none-any.whl
+importlib-metadata @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/importlib_metadata-4.12.0-py3-none-any.whl
+ipykernel @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/ipykernel-6.19.2-py3-none-any.whl
+ipython @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/ipython-8.7.0-py3-none-any.whl
+ipython-genutils @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/ipython_genutils-0.2.0-py2.py3-none-any.whl
+iso8601 @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/iso8601-1.0.2-py3-none-any.whl
+isoduration @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/isoduration-20.11.0-py3-none-any.whl
+jedi @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/jedi-0.18.2-py2.py3-none-any.whl
+Jinja2 @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/Jinja2-3.1.2-py3-none-any.whl
+json5 @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/json5-0.9.10-py2.py3-none-any.whl
+jsonpath==0.82.2
+jsonpointer @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/jsonpointer-2.3-py2.py3-none-any.whl
+jsonschema @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/jsonschema-4.17.3-py3-none-any.whl
+jupyter-events @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/jupyter_events-0.5.0-py3-none-any.whl
+jupyter_client @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/jupyter_client-7.4.8-py3-none-any.whl
+jupyter_core @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/jupyter_core-5.1.0-py3-none-any.whl
+jupyter_server @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/jupyter_server-2.0.1-py3-none-any.whl
+jupyter_server_terminals @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/jupyter_server_terminals-0.4.2-py3-none-any.whl
+jupyterlab @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/jupyterlab-3.5.1-py3-none-any.whl
+jupyterlab-pygments @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/jupyterlab_pygments-0.2.2-py2.py3-none-any.whl
+jupyterlab_server @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/jupyterlab_server-2.16.5-py3-none-any.whl
+kiwisolver @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/kiwisolver-1.4.4-cp310-cp310-win_amd64.whl
+korean-lunar-calendar @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/korean_lunar_calendar-0.3.1-py3-none-any.whl
+lxml @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/lxml-4.9.2-cp310-cp310-win_amd64.whl
+MarkupSafe @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/MarkupSafe-2.1.1-cp310-cp310-win_amd64.whl
+matplotlib @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/matplotlib-3.5.3-cp310-cp310-win_amd64.whl
+matplotlib-inline @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/matplotlib_inline-0.1.6-py3-none-any.whl
+mistune @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/mistune-2.0.4-py2.py3-none-any.whl
+msgpack @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/msgpack-1.0.4-cp310-cp310-win_amd64.whl
+multidict @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/multidict-6.0.3-cp310-cp310-win_amd64.whl
+multitasking==0.0.11
+nbclassic @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/nbclassic-0.4.8-py3-none-any.whl
+nbclient @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/nbclient-0.7.2-py3-none-any.whl
+nbconvert @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/nbconvert-7.2.6-py3-none-any.whl
+nbformat @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/nbformat-5.7.0-py3-none-any.whl
+nest-asyncio @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/nest_asyncio-1.5.6-py3-none-any.whl
+notebook @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/notebook-6.5.2-py3-none-any.whl
+notebook_shim @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/notebook_shim-0.2.2-py3-none-any.whl
+Nuitka==1.2.7
+numpy @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/numpy-1.23.1-cp310-cp310-win_amd64.whl
+openpyxl==3.1.2
+orjson @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/orjson-3.8.3-cp310-none-win_amd64.whl
+packaging @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/packaging-22.0-py3-none-any.whl
+pandas @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pandas-1.5.0-cp310-cp310-win_amd64.whl
+pandas-datareader==0.10.0
+pandocfilters @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pandocfilters-1.5.0-py2.py3-none-any.whl
+parso @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/parso-0.8.3-py2.py3-none-any.whl
+passlib @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/passlib-1.7.4-py2.py3-none-any.whl
+patsy==0.5.3
+peewee==3.17.0
+pickleshare @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pickleshare-0.7.5-py2.py3-none-any.whl
+Pillow @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/Pillow-9.3.0-cp310-cp310-win_amd64.whl
+platformdirs @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/platformdirs-2.6.0-py3-none-any.whl
+plotly @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/plotly-5.10.0-py2.py3-none-any.whl
+prometheus-client @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/prometheus_client-0.15.0-py3-none-any.whl
+prompt-toolkit @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/prompt_toolkit-3.0.36-py3-none-any.whl
+protobuf @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/protobuf-3.20.0-cp310-cp310-win_amd64.whl
+psutil @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/psutil-5.9.4-cp36-abi3-win_amd64.whl
+psycopg2 @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/psycopg2-2.9.5-cp310-cp310-win_amd64.whl
+pure-eval @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pure_eval-0.2.2-py3-none-any.whl
+py-mini-racer==0.6.0
+pyasn1 @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pyasn1-0.4.8-py2.py3-none-any.whl
+pycparser @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pycparser-2.21-py2.py3-none-any.whl
+pydantic @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pydantic-1.10.2-cp310-cp310-win_amd64.whl
+Pygments @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/Pygments-2.13.0-py3-none-any.whl
+PyJWT @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/PyJWT-2.6.0-py3-none-any.whl
+pyluach @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pyluach-2.0.2-py3-none-any.whl
+pymongo @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pymongo-4.3.3-cp310-cp310-win_amd64.whl
+PyMySQL @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/PyMySQL-1.0.2-py3-none-any.whl
+pyparsing @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pyparsing-3.0.9-py3-none-any.whl
+pypinyin==0.49.0
+pyqtgraph @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pyqtgraph-0.12.4-py3-none-any.whl
+pyrsistent @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pyrsistent-0.19.2-cp310-cp310-win_amd64.whl
+PySide6 @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/PySide6-6.3.0-cp36-abi3-win_amd64.whl
+PySide6-Addons @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/PySide6_Addons-6.3.0-cp36-abi3-win_amd64.whl
+PySide6-Essentials @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/PySide6_Essentials-6.3.0-cp36-abi3-win_amd64.whl
+python-dateutil @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/python_dateutil-2.8.2-py2.py3-none-any.whl
+python-jose @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/python_jose-3.3.0-py2.py3-none-any.whl
+python-json-logger @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/python_json_logger-2.0.4-py3-none-any.whl
+python-multipart==0.0.5
+python-rapidjson @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/python_rapidjson-1.9-cp310-cp310-win_amd64.whl
+pytz @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pytz-2022.6-py2.py3-none-any.whl
+pytz-deprecation-shim @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pytz_deprecation_shim-0.1.0.post0-py2.py3-none-any.whl
+pywin32 @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pywin32-305-cp310-cp310-win_amd64.whl
+pywinpty @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pywinpty-2.0.9-cp310-none-win_amd64.whl
+pyxll @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pyxll-5.5.3-cp310-none-any.whl
+PyYAML @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/PyYAML-6.0-cp310-cp310-win_amd64.whl
+pyzmq @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/pyzmq-23.2.1-cp310-cp310-win_amd64.whl
+QDarkStyle @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/QDarkStyle-3.1-py2.py3-none-any.whl
+QtAwesome @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/QtAwesome-1.2.1-py3-none-any.whl
+QtPy @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/QtPy-2.3.0-py3-none-any.whl
+requests==2.31.0
+rfc3339-validator @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/rfc3339_validator-0.1.4-py2.py3-none-any.whl
+rfc3986-validator @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/rfc3986_validator-0.1.1-py2.py3-none-any.whl
+rqdatac @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/rqdatac-2.10.11-cp310-cp310-win_amd64.whl
+rsa @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/rsa-4.9-py3-none-any.whl
+scipy @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/scipy-1.9.3-cp310-cp310-win_amd64.whl
+seaborn @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/seaborn-0.11.2-py3-none-any.whl
+Send2Trash @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/Send2Trash-1.8.0-py3-none-any.whl
+sgqlc @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/sgqlc-16.1-py3-none-any.whl
+shiboken6 @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/shiboken6-6.3.0-cp36-abi3-win_amd64.whl
+shinny-structlog @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/shinny_structlog-0.0.4-py3-none-any.whl
+simplejson @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/simplejson-3.18.0-cp310-cp310-win_amd64.whl
+six @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/six-1.16.0-py2.py3-none-any.whl
+sniffio @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/sniffio-1.3.0-py3-none-any.whl
+soupsieve @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/soupsieve-2.3.2.post1-py3-none-any.whl
+SQLAlchemy==1.3.24
+stack-data @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/stack_data-0.6.2-py3-none-any.whl
+starlette @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/starlette-0.22.0-py3-none-any.whl
+statsmodels==0.14.0
+ta==0.10.2
+TA-Lib @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/TA_Lib-0.4.24-cp310-cp310-win_amd64.whl
+tabulate==0.9.0
+taospy @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/taospy-2.6.9-py3-none-any.whl
+tenacity @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/tenacity-8.1.0-py3-none-any.whl
+terminado @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/terminado-0.17.1-py3-none-any.whl
+testpath @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/51EF6248858D3D09A63067BA632F787998F8F500/testpath-0.6.0-py3-none-any.whl
+tinycss2 @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/tinycss2-1.2.1-py3-none-any.whl
+tomli @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/tomli-2.0.1-py3-none-any.whl
+toolz @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/toolz-0.12.0-py3-none-any.whl
+tornado @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/tornado-6.2-cp37-abi3-win_amd64.whl
+tqdm==4.66.1
+tqsdk @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/tqsdk-3.3.0-py3-none-win_amd64.whl
+traitlets @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/traitlets-5.7.1-py3-none-any.whl
+tspytsl @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/tspytsl-1.3-cp310-cp310-win_amd64.whl
+tushare @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/tushare-1.2.89-py3-none-any.whl
+typing==3.7.4.3
+typing_extensions @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/typing_extensions-4.4.0-py3-none-any.whl
+tzdata @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/tzdata-2022.7-py2.py3-none-any.whl
+tzlocal @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/tzlocal-4.2-py3-none-any.whl
+uri-template @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/uri_template-1.2.0-py3-none-any.whl
+urllib3 @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/urllib3-1.26.13-py2.py3-none-any.whl
+uvicorn @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/uvicorn-0.20.0-py3-none-any.whl
+veighna-station @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/veighna_station-3.5.0-py310-none-any.whl
+vnpy @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy-3.5.0-py3-none-any.whl
+vnpy-algotrading @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_algotrading-1.0.3-py3-none-any.whl
+vnpy-chartwizard @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_chartwizard-1.0.3-py3-none-any.whl
+vnpy-ctabacktester @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_ctabacktester-1.0.9-py3-none-any.whl
+vnpy-ctastrategy @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_ctastrategy-1.1.2-py3-none-any.whl
+vnpy-ctp @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_ctp-6.6.7.0-cp310-cp310-win_amd64.whl
+vnpy-ctptest @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_ctptest-6.6.7.0-cp310-cp310-win_amd64.whl
+vnpy-da @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_da-1.12.2-cp310-cp310-win_amd64.whl
+vnpy-datamanager @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_datamanager-1.0.7-py3-none-any.whl
+vnpy-datarecorder @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_datarecorder-1.0.4-py3-none-any.whl
+vnpy-emt @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_emt-2.10.0-cp310-cp310-win_amd64.whl
+vnpy-esunny @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_esunny-1.0.2.2.6-cp310-cp310-win_amd64.whl
+vnpy-excelrtd @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_excelrtd-1.0.1-py3-none-any.whl
+vnpy-femas @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_femas-1.0.2-cp310-cp310-win_amd64.whl
+vnpy-gm @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_gm-1.0.0-py3-none-any.whl
+vnpy-hft @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_hft-1.0.3-cp310-cp310-win_amd64.whl
+vnpy-hts @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_hts-1.0.2-cp310-cp310-win_amd64.whl
+vnpy-hx @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_hx-1.0.1-py3-none-any.whl
+vnpy-ib @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_ib-9.81.1.5-py3-none-any.whl
+vnpy-ifind @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_ifind-1.0.1-py3-none-any.whl
+vnpy-jees @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_jees-6.6.1.0-cp310-cp310-win_amd64.whl
+vnpy-mini @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_mini-1.6.0.1-cp310-cp310-win_amd64.whl
+vnpy-mongodb @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_mongodb-1.0.4-py3-none-any.whl
+vnpy-mysql @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_mysql-1.0.3-py3-none-any.whl
+vnpy-optionmaster @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_optionmaster-1.0.5-py3-none-any.whl
+vnpy-ost @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_ost-2.0.1.3-cp310-cp310-win_amd64.whl
+vnpy-paperaccount @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_paperaccount-1.0.2-py3-none-any.whl
+vnpy-portfoliomanager @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_portfoliomanager-1.0.1-py3-none-any.whl
+vnpy-portfoliostrategy @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_portfoliostrategy-1.0.3-py3-none-any.whl
+vnpy-postgresql @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_postgresql-1.0.2-py3-none-any.whl
+vnpy-rest @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_rest-1.0.5-py3-none-any.whl
+vnpy-riskmanager @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_riskmanager-1.0.3-py3-none-any.whl
+vnpy-rohon @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_rohon-6.5.1.7-cp310-cp310-win_amd64.whl
+vnpy-rpcservice @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_rpcservice-1.0.3-py3-none-any.whl
+vnpy-rqdata @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_rqdata-2.9.56.1-py3-none-any.whl
+vnpy-scripttrader @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_scripttrader-1.0.1-py3-none-any.whl
+vnpy-sec @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_sec-1.0.3-py3-none-any.whl
+vnpy-sopt @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_sopt-3.5.5.3-cp310-cp310-win_amd64.whl
+vnpy-sopttest @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_sopttest-3.5.5.2-cp310-cp310-win_amd64.whl
+vnpy-spreadtrading @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_spreadtrading-1.1.5-py3-none-any.whl
+vnpy-sqlite @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_sqlite-1.0.1-py3-none-any.whl
+vnpy-taos @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_taos-1.0.2-py3-none-any.whl
+vnpy-tap @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_tap-9.0.2-cp310-cp310-win_amd64.whl
+vnpy-timescaledb @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_timescaledb-1.0.1-py3-none-any.whl
+vnpy-tinysoft @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_tinysoft-2022.8.5-py3-none-any.whl
+vnpy-tqsdk @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_tqsdk-3.2.11-py3-none-any.whl
+vnpy-tts @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_tts-6.6.7.0-cp310-cp310-win_amd64.whl
+vnpy-tushare @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_tushare-1.2.85.1-py3-none-any.whl
+vnpy-udata @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_udata-2022.8.5-py3-none-any.whl
+vnpy-uft @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_uft-3.7.2.4.4-cp310-cp310-win_amd64.whl
+vnpy-websocket @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_websocket-1.0.4-py3-none-any.whl
+vnpy-webtrader @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_webtrader-1.0.5-py3-none-any.whl
+vnpy-wind @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_wind-1.0.2-py3-none-any.whl
+vnpy-xtp @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/vnpy_xtp-2.2.32.2.1-cp310-cp310-win_amd64.whl
+wcwidth @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/wcwidth-0.2.5-py2.py3-none-any.whl
+webcolors @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/webcolors-1.12-py3-none-any.whl
+webencodings @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/webencodings-0.5.1-py2.py3-none-any.whl
+websocket-client @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/websocket_client-0.57.0-py2.py3-none-any.whl
+websockets @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/websockets-10.4-cp310-cp310-win_amd64.whl
+WMI @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/WMI-1.5.1-py2.py3-none-any.whl
+xlrd==2.0.1
+yarl @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/yarl-1.8.2-cp310-cp310-win_amd64.whl
+yfinance==0.2.31
+zipp @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/zipp-3.11.0-py3-none-any.whl
+zstandard @ file:///C:/Users/xiaoh/AppData/Local/Package%20Cache/D3911CB9AD2CB264B28C9E89CE8F93067E5189F1/zstandard-0.19.0-cp310-cp310-win_amd64.whl
