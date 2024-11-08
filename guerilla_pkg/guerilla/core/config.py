@@ -18,8 +18,8 @@ DEFAULT_CONFIG = {
     },
     "dataprovider":{
         "tq":{
-            "user":"pengx",
-            "pwd":"17Bupt@mac"
+            "user":"xxxx",
+            "pwd":"xxxx"
             }
     },
     "ems":{
